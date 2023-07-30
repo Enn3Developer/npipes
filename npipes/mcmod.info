@@ -1,0 +1,18 @@
+[
+{
+    "modid": "NPipes_Enn3DevPlayer",
+    "name": "NPipes",
+    "version": "1.0",
+    "credits": "Enn3DevPlayer",
+    "authors": [
+        "Enn3DevPlayer"
+    ],
+    "description": "Additional pipes!",
+    "url": "",
+    "updateUrl": "",
+    "logoFile": ""
+    "parent": ""
+    "screenshot": [
+    ]
+}
+]
